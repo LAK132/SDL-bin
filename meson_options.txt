@@ -1,0 +1,6 @@
+option(
+  'use_vendored_windows_sdl',
+  type: 'boolean',
+  value: true,
+  yield: true,
+)
